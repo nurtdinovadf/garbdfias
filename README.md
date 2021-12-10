@@ -1,4 +1,4 @@
-# Prsing GAR BD FIAS, Python Tutorial
+# Parsing GAR BD FIAS, Python Tutorial
 
 ## Intro
 This repo contains a small but sufficient data chunk of [ГАР БД ФИАС](https://fias.nalog.ru/Updates) for this tutorial. Please note: file sizes are going to inflate ~10 times after extraction. Please make sure you have enough space on your disk.
