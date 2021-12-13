@@ -6,4 +6,4 @@ This repo contains a small but sufficient data chunk of [ГАР БД ФИАС](h
 If you want to work with up-to-date and full GAR database, you can find it [here](https://fias.nalog.ru/Updates). It is not guaranteed that the code will work for every region and update.
 
 ## Getting started
-Just follow the [link to open Colab Notebook](https://colab.research.google.com/github/nurtdinovadf/garbdfias/blob/master/GAR16.ipynb). An explanation could be found [in the article]() (TBD).
+Just follow the [link to open Colab Notebook](https://colab.research.google.com/github/nurtdinovadf/garbdfias/blob/master/GAR16.ipynb). An explanation could be found [in the article](https://habr.com/ru/post/595107/).
